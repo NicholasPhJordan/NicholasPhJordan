@@ -1,6 +1,11 @@
 <h1 align="center">👋Hi! I'm Nick Jordan👋
   
-[![Github](https://img.shields.io/github/followers/NicholasPhJordan?label=Follow&style=social)](https://github.com/NicholasPhJordan)</h1>
+[![Github](https://img.shields.io/github/followers/NicholasPhJordan?label=Follow&style=social)](https://github.com/NicholasPhJordan) 
+![](https://visitor-badge.laobi.icu/badge?page_id=NicholasPhJordan.NicholasPhJordan)</h1>
+
+<p align="left">
+something about yourself here
+</p>
 
 ### ✉️Find me at:
 
