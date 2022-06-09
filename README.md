@@ -15,7 +15,7 @@
 
 - 💬 Ask me anything!
 
-- 📄 Know about my experiences
+- [📄 Know about my experiences](https://resume.creddle.io/resume/cg7cs7hak2f)
 
 - 👨‍💻 Try my stuff! 
   - [The Sandman](https://reposeproductions.itch.io/sandman)
