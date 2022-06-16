@@ -28,7 +28,13 @@
 <h3>Sandman</h3>
 
 <p align="left">
-  Somwthing about the game here
+  An open-wrold, adventure game by Repose Productions, a team of 5
+  
+  [Sandman.itch.io](https://reposeproductions.itch.io/sandman)
+  
+  - Player Movement
+  - Animation Blueprints
+  - Main Menu
 </p>
 
 <p align="center">
@@ -39,7 +45,12 @@
 <h3>Bread Crumbs</h3>
 
 <p align="left">
-  Somwthing about the game here
+  Pac-like, horror, arcade game by Glutton Productions, a team of 6
+  
+  [BreadCrumbs.itch.io](https://gluttonproductions.itch.io/bread-crumbs)
+  
+  - Collectibles
+  - UI
 </p>
   
 <p align="center">
